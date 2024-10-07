@@ -906,7 +906,7 @@
    }
    
    .footer-logo {
-     width: 200px;
+     width: 000px;
      margin-bottom: 22px;
    }
    
@@ -4899,7 +4899,7 @@
    }
    
    .logo {
-    width: 300px; /* Tamanho específico para este logo */
+    width: 000px; /* Tamanho específico para este logo */
     height: auto; /* Mantém a proporção */
   }
 
@@ -6710,7 +6710,7 @@
      }
    
      .footer-logo {
-       margin-bottom: 32px;
+       margin-bottom: 0px;
      }
    
      .nav-link.w--current {
